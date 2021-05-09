@@ -13,3 +13,8 @@ kolejna modyfikacja
 
 
 tagi tagi bialek
+
+
+
+
+rysunek bez rysunku
