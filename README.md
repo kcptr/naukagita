@@ -10,3 +10,6 @@ modyfikacja 2
 
 
 kolejna modyfikacja
+
+
+tagi tagi bialek
