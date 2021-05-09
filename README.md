@@ -18,3 +18,6 @@ tagi tagi bialek
 
 
 rysunek bez rysunku
+
+
+siema sprawdzam czy dziala
